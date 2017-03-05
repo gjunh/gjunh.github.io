@@ -1,0 +1,5 @@
+.rotated {
+	transform: rotate(270deg);
+	margin-top: 135px;
+	margin-bottom: 135px;
+}
